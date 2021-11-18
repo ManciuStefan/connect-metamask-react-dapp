@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/metamask-message-signer/static/js/main.c3863733.chunk.js",
+    "main.js.map": "/metamask-message-signer/static/js/main.c3863733.chunk.js.map",
+    "runtime-main.js": "/metamask-message-signer/static/js/runtime-main.34b514e7.js",
+    "runtime-main.js.map": "/metamask-message-signer/static/js/runtime-main.34b514e7.js.map",
+    "static/css/2.52fd3438.chunk.css": "/metamask-message-signer/static/css/2.52fd3438.chunk.css",
+    "static/js/2.a3213433.chunk.js": "/metamask-message-signer/static/js/2.a3213433.chunk.js",
+    "static/js/2.a3213433.chunk.js.map": "/metamask-message-signer/static/js/2.a3213433.chunk.js.map",
+    "index.html": "/metamask-message-signer/index.html",
+    "static/css/2.52fd3438.chunk.css.map": "/metamask-message-signer/static/css/2.52fd3438.chunk.css.map",
+    "static/js/2.a3213433.chunk.js.LICENSE.txt": "/metamask-message-signer/static/js/2.a3213433.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/metamask-message-signer/static/media/inter-vietnamese-400-normal.bc4d5149.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34b514e7.js",
+    "static/css/2.52fd3438.chunk.css",
+    "static/js/2.a3213433.chunk.js",
+    "static/js/main.c3863733.chunk.js"
+  ]
+}
