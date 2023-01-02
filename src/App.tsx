@@ -1,4 +1,4 @@
-import {Box, Button, ChakraProvider, Input, useDisclosure} from "@chakra-ui/react";
+import {Box, Button, ChakraProvider, Input, useDisclosure, Textarea} from "@chakra-ui/react";
 import theme from "./theme";
 import Layout from "./components/Layout";
 import ConnectButton from "./components/ConnectButton";
@@ -27,7 +27,7 @@ function App() {
         <AccountModal isOpen={isOpen} onClose={onClose} />
         {account && (
           <>
-            <Input
+            <Textarea
               style={{
                 width: 500,
                 color: 'white',
